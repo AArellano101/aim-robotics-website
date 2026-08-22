@@ -1,0 +1,19 @@
+brand: "AIM"
+acronymExpansion: "Autonomous Intelligent Machines"
+university: "University of Calgary"
+location: "Calgary, Alberta"
+
+socialLinks:
+  - id: github
+    label: "GitHub"
+    href: "#"
+  - id: instagram
+    label: "Instagram"
+    href: "#"
+  - id: linkedin
+    label: "LinkedIn"
+    href: "#"
+
+motto: "PUSHING THE STATE-OF-THE-ART"
+copyrightHolder: "AIM Robotics"
+startYear: 2026

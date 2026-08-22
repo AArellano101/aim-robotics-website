@@ -1,0 +1,81 @@
+sectionLabel: "03 / WHAT WE DO"
+heading: "The work."
+
+domains:
+  - id: autonomous-systems
+    title: "Autonomous Systems"
+    description: "Machine intelligence, strategy, perception, world modelling, planning, state estimation, control, simulation, and multi-robot coordination."
+    tag: "AI / SOFTWARE"
+
+  - id: embedded
+    title: "Embedded & Electrical"
+    description: "Embedded systems, custom PCBs, sensing, communication, motor electronics, firmware, and power systems."
+    tag: "ELECTRICAL"
+
+  - id: robot-design
+    title: "Robot Design"
+    description: "CAD, drivetrain, mechanisms, kicking, dribbling, manufacturing, packaging, and physical integration."
+    tag: "MECHANICAL"
+
+  - id: competition-research
+    title: "Competition & Research"
+    description: "RoboCup, experimentation, benchmarking, testing, technical research, and iteration."
+    tag: "RESEARCH"
+
+joinSectionLabel: "03B / JOIN US"
+joinHeading: "Who we're looking for."
+joinIntro: >
+  [JOIN INTRO PLACEHOLDER — a short statement about the kind of engineer
+  AIM wants to attract, independent of a specific open role.]
+
+traits:
+  - id: systems-thinker
+    title: "Systems Thinkers"
+    description: "People interested in how software, electrical, and mechanical systems interact."
+    relatedDomains:
+      - autonomous-systems
+      - embedded
+
+  - id: builders
+    title: "Builders"
+    description: "People who enjoy turning theory into something physical and measurable."
+    relatedDomains:
+      - embedded
+      - robot-design
+
+  - id: problem-solvers
+    title: "Problem Solvers"
+    description: "People willing to approach ambiguous technical problems and learn what they need."
+    relatedDomains:
+      - autonomous-systems
+      - competition-research
+
+  - id: research-minded
+    title: "Research-Minded Engineers"
+    description: "People interested in reading, experimenting, comparing approaches, and improving existing methods."
+    relatedDomains:
+      - autonomous-systems
+      - competition-research
+
+  - id: ownership
+    title: "Ownership"
+    description: "People willing to become responsible for a system or subsystem."
+    relatedDomains:
+      - embedded
+      - competition-research
+
+  - id: collaborators
+    title: "Collaborators"
+    description: "People who communicate technical ideas well and can work across disciplines."
+    relatedDomains:
+      - robot-design
+
+  - id: curiosity
+    title: "Curiosity"
+    description: "People who genuinely want to understand why something works instead of stopping when it merely works."
+    relatedDomains:
+      - competition-research
+
+joinCta:
+  label: "Join AIM"
+  href: "#contact"

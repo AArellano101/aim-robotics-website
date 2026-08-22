@@ -1,0 +1,28 @@
+sectionLabel: "05 / TEAMS"
+heading: "One system. Multiple disciplines."
+intro: >
+  [TEAMS INTRO PLACEHOLDER - a short statement about how every discipline
+  at AIM contributes toward one autonomous machine.]
+
+subteams:
+  - id: software-ai
+    title: "Software & AI"
+    description: "Machine intelligence, strategy, planning, perception, simulation, state estimation, control, and software infrastructure."
+    tag: "SOFTWARE"
+
+  - id: electrical-embedded
+    title: "Electrical & Embedded"
+    description: "PCB design, embedded systems, firmware, motor electronics, sensors, communication, and power."
+    tag: "ELECTRICAL"
+
+  - id: mechanical
+    title: "Mechanical"
+    description: "CAD, drivetrain, mechanisms, manufacturing, packaging, structural design, and mechanical integration."
+    tag: "MECHANICAL"
+
+  - id: operations
+    title: "Operations"
+    description: "Competition logistics, recruitment, sponsorship, outreach, media, and organization."
+    tag: "OPERATIONS"
+
+centerLabel: "AIM ROBOT"

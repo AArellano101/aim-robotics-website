@@ -1,0 +1,115 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: transparent;
+  border-bottom: 1px solid transparent;
+  transition:
+    background-color var(--duration-fast) var(--ease-precise),
+    border-color var(--duration-fast) var(--ease-precise),
+    backdrop-filter var(--duration-fast) var(--ease-precise);
+}
+
+.navbar--scrolled {
+  background: rgba(255, 255, 255, 0.86);
+  border-bottom-color: var(--line);
+  backdrop-filter: blur(8px);
+}
+
+.navbar__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 76px;
+}
+
+.navbar__brand {
+  text-decoration: none;
+}
+
+.navbar__links {
+  display: flex;
+  align-items: center;
+  gap: clamp(1.25rem, 2.5vw, 2.25rem);
+}
+
+.navbar__link {
+  font-family: var(--font-condensed);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--charcoal);
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition:
+    color var(--duration-fast) var(--ease-precise),
+    border-color var(--duration-fast) var(--ease-precise);
+}
+
+.navbar__link:hover,
+.navbar__link:focus-visible {
+  color: var(--aim-red);
+  border-color: var(--aim-red);
+}
+
+.navbar__toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+}
+
+.navbar__toggle-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--ink);
+}
+
+.navbar__mobile {
+  display: none;
+}
+
+@media (max-width: 860px) {
+  .navbar__links {
+    display: none;
+  }
+
+  .navbar__toggle {
+    display: flex;
+  }
+
+  .navbar__mobile {
+    flex-direction: column;
+    padding: 0.5rem var(--container-pad) 1.5rem;
+    background: var(--white);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .navbar__mobile--open {
+    display: flex;
+  }
+
+  .navbar__mobile-link {
+    padding: 0.9rem 0;
+    border-top: 1px solid var(--line);
+    font-family: var(--font-condensed);
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--ink);
+  }
+
+  .navbar__mobile-link:hover,
+  .navbar__mobile-link:focus-visible {
+    color: var(--aim-red);
+  }
+}

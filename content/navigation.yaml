@@ -1,0 +1,21 @@
+brand: "AIM"
+
+links:
+  - id: about
+    label: "About"
+    href: "#about"
+  - id: engineering
+    label: "Engineering"
+    href: "#engineering"
+  - id: teams
+    label: "Teams"
+    href: "#teams"
+  - id: what-we-do
+    label: "Join"
+    href: "#what-we-do"
+  - id: contact
+    label: "Contact"
+    href: "#contact"
+
+menuOpenLabel: "Open menu"
+menuCloseLabel: "Close menu"

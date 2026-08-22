@@ -1,0 +1,21 @@
+sectionLabel: "02 / ABOUT"
+
+heading: "Pushing the State-Of-The-Art"
+
+mission: >
+  [MISSION STATEMENT PLACEHOLDER - a concise statement of why AIM exists,
+  what problem the team is attempting to solve, and the standard the team
+  holds its engineering to.]
+
+goals:
+  - number: "01"
+    title: "[GOAL PLACEHOLDER - ENGINEERING EXCELLENCE]"
+    description: "[DESCRIPTION PLACEHOLDER - what engineering excellence means for AIM.]"
+
+  - number: "02"
+    title: "[GOAL PLACEHOLDER - COMPETITION]"
+    description: "[DESCRIPTION PLACEHOLDER - how competition drives the team's work.]"
+
+  - number: "03"
+    title: "[GOAL PLACEHOLDER - DEVELOPMENT]"
+    description: "[DESCRIPTION PLACEHOLDER - how AIM develops its members as engineers.]"

@@ -1,0 +1,33 @@
+sectionLabel: "06 / CONTACT"
+heading: "Build what's next."
+intro: >
+  [CONTACT INTRO PLACEHOLDER - a short line inviting prospective members,
+  collaborators, and sponsors to reach out.]
+
+channels:
+  - id: email
+    label: "Email"
+    value: "[EMAIL PLACEHOLDER]"
+    href: "#"
+
+  - id: recruitment
+    label: "Recruitment"
+    value: "[RECRUITMENT LINK PLACEHOLDER]"
+    href: "#"
+
+  - id: github
+    label: "GitHub"
+    value: "[GITHUB PLACEHOLDER]"
+    href: "#"
+
+  - id: instagram
+    label: "Instagram"
+    value: "[INSTAGRAM PLACEHOLDER]"
+    href: "#"
+
+  - id: linkedin
+    label: "LinkedIn"
+    value: "[LINKEDIN PLACEHOLDER]"
+    href: "#"
+
+affiliation: "University of Calgary"

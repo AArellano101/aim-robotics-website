@@ -1,0 +1,48 @@
+sectionLabel: "04 / ENGINEERING"
+heading: "Built. Tested. Measured."
+
+roboCupLabel: "SYSTEM // ROBOCUP SSL"
+roboCupIntro: >
+  RoboCup is an international competition designed to advance robotics and
+  artificial-intelligence research through challenging autonomous-robotics
+  problems.
+roboCupDetail: >
+  AIM is developing a team for the RoboCup Small Size League, where teams of
+  fully autonomous robots play soccer while receiving field-state information
+  through the league's shared vision infrastructure and operating under
+  automated game-control systems.
+
+pipeline:
+  - "ROBOCUP"
+  - "AUTONOMOUS ROBOT SOCCER"
+  - "MECHANICAL + ELECTRICAL + SOFTWARE"
+  - "AIM ROBOT PLATFORM"
+
+projects:
+  - id: robot-platform
+    number: "01"
+    tag: "ROBOTICS / SYSTEMS"
+    title: "Autonomous Robot Platform"
+    description: "[PROJECT DESCRIPTION PLACEHOLDER - robot photography, CAD, drivetrain, mechanisms, integration, and specifications will appear here as the platform develops.]"
+    mediaLabel: "AIM ROBOT CAD"
+
+  - id: multi-robot-intelligence
+    number: "02"
+    tag: "AI / STRATEGY"
+    title: "Multi-Robot Intelligence"
+    description: "[PROJECT DESCRIPTION PLACEHOLDER - strategy, autonomous coordination, decision-making, game state, tactics, and multi-agent behaviour.]"
+    mediaLabel: "STRATEGY & COORDINATION VISUALIZATION"
+
+  - id: motion-control
+    number: "03"
+    tag: "PLANNING / CONTROLS"
+    title: "Motion & Control"
+    description: "[PROJECT DESCRIPTION PLACEHOLDER - state estimation, path planning, obstacle avoidance, trajectory generation, motion control, and simulation.]"
+    mediaLabel: "PATH PLANNING VISUALIZATION"
+
+  - id: custom-electronics
+    number: "04"
+    tag: "ELECTRICAL / EMBEDDED"
+    title: "Custom Electronics"
+    description: "[PROJECT DESCRIPTION PLACEHOLDER - PCB design, communications, motor control, firmware, sensors, and power systems.]"
+    mediaLabel: "PCB RENDER"
