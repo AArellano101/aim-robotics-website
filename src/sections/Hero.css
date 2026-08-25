@@ -32,7 +32,7 @@
 }
 
 .hero__heading-line:last-child {
-  color: var(--aim-red);
+  color: var(--aim-gold);
 }
 
 .hero__subheading {
@@ -66,8 +66,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--white);
-  border: 1px solid var(--line);
+  background: var(--black);
 }
 
 .hero__motif {
@@ -80,8 +79,9 @@
 
 .hero__logo {
   position: relative;
-  width: min(70%, 22rem);
+  width: 120%;
   height: auto;
+  max-width: none;
 }
 
 .hero__scroll {

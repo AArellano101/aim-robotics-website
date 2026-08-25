@@ -22,7 +22,7 @@
 .about__mission {
   font-family: var(--font-sans);
   font-size: clamp(1rem, 1.4vw, 1.15rem);
-  color: var(--charcoal);
+  color: var(--on-white);
   max-width: 46ch;
 }
 

@@ -1,28 +1,27 @@
 sectionLabel: "05 / TEAMS"
 heading: "One system. Multiple disciplines."
 intro: >
-  [TEAMS INTRO PLACEHOLDER - a short statement about how every discipline
-  at AIM contributes toward one autonomous machine.]
+  AIM consists of a collection of integrated subteams that distribute responsibilities and work in parallel toward a common goal. These subteams include Mechanical, Electrical, Software, and Administration, with each contributing specialized expertise to the development of the robot and the team as a whole.
 
 subteams:
   - id: software-ai
     title: "Software & AI"
-    description: "Machine intelligence, strategy, planning, perception, simulation, state estimation, control, and software infrastructure."
+    description: "Strategy, artificial intelligence, planning, state estimation, control systems, firmware."
     tag: "SOFTWARE"
 
   - id: electrical-embedded
-    title: "Electrical & Embedded"
-    description: "PCB design, embedded systems, firmware, motor electronics, sensors, communication, and power."
+    title: "Electrical & Embedded Systems"
+    description: "PCB design, sensing, wireless communication, power management, and hardware-software integration."
     tag: "ELECTRICAL"
 
   - id: mechanical
-    title: "Mechanical"
-    description: "CAD, drivetrain, mechanisms, manufacturing, packaging, structural design, and mechanical integration."
+    title: "Mechanical Systems"
+    description: "Solenoid kicker, wheel-based dribbler, omnidirectional wheels, 3D printed shell."
     tag: "MECHANICAL"
 
   - id: operations
-    title: "Operations"
+    title: "Administrative"
     description: "Competition logistics, recruitment, sponsorship, outreach, media, and organization."
-    tag: "OPERATIONS"
+    tag: "Administrative"
 
 centerLabel: "AIM ROBOT"

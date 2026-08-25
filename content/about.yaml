@@ -1,21 +1,19 @@
 sectionLabel: "02 / ABOUT"
 
-heading: "Pushing the State-Of-The-Art"
+heading: "TARGETING THE HIGHEST STANDARD"
 
 mission: >
-  [MISSION STATEMENT PLACEHOLDER - a concise statement of why AIM exists,
-  what problem the team is attempting to solve, and the standard the team
-  holds its engineering to.]
+  We believe the highest standard is not a fixed destination, but a benchmark that continually moves forward. AIM strives to reach that benchmark by learning from leading teams and developing innovative approaches, while giving our members the oppurtunity to bring them to life. Through constant refinement, we aim to raise our capabilities with every iteration and earn our place among the best in RoboCup.
 
 goals:
   - number: "01"
-    title: "[GOAL PLACEHOLDER - ENGINEERING EXCELLENCE]"
-    description: "[DESCRIPTION PLACEHOLDER - what engineering excellence means for AIM.]"
+    title: "INGENUITY"
+    description: "Drawing from the successes of teams around the world, AIM combines proven approaches with our own ideas to develop creative and unconventional engineered solutions."
 
   - number: "02"
-    title: "[GOAL PLACEHOLDER - COMPETITION]"
-    description: "[DESCRIPTION PLACEHOLDER - how competition drives the team's work.]"
+    title: "DEVELOPMENT"
+    description: "We are committed to building a sustainable team where members grow through collaboration and hands-on experience, developing the skills needed to take on increasingly complex challenges."
 
   - number: "03"
-    title: "[GOAL PLACEHOLDER - DEVELOPMENT]"
-    description: "[DESCRIPTION PLACEHOLDER - how AIM develops its members as engineers.]"
+    title: "COMPETITION"
+    description: "AIM strives to compete at the highest level of RoboCup SSL, using competition as a benchmark for our engineering and pushing ourselves to perform alongside the world’s strongest teams and compete for top placements."

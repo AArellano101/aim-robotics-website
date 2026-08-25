@@ -13,7 +13,7 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--white);
+  background-color: var(--black);
   background-image: var(--bg-pattern);
   background-size: var(--bg-pattern-size);
   color: var(--ink);
@@ -117,7 +117,7 @@ button:focus-visible,
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--aim-red);
 }
 
 .technical-label--accent {

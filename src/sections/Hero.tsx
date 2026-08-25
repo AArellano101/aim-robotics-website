@@ -31,7 +31,7 @@ function Hero() {
         </div>
 
         <div className="hero__media" role="img" aria-label={hero.mediaAlt}>
-          <FieldMotif className="hero__motif" variant="field" />
+          
           <Logo className="hero__logo" />
         </div>
       </div>

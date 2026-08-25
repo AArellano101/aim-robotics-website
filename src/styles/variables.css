@@ -1,12 +1,17 @@
 :root {
-  --aim-red: #b30d1c;
+  --aim-red: #d0aa3b;
   --aim-red-dim: #8f0a16;
-  --ink: #161616;
-  --charcoal: #474747;
-  --muted: #737373;
-  --line: #d8d8d8;
-  --off-white: #f5f4f1;
-  --white: #ffffff;
+  --ink: #e8e6e6;
+  --charcoal: #9a9999;
+  --muted: #c1c1c1;
+  --line: #5a0008;
+  --off-white: #1b1b1b;
+  --white: #eae1e1;
+  --aim-gold: #b30d1c;
+  --black: #1b1b1b;
+  --off-black: #0b0b0b;
+  --on-white: #dbdada;
+  --circle-color: #444343;
 
   --font-sans: "Inter Tight", "Inter", "Helvetica Neue", Arial, sans-serif;
   --font-condensed: "Barlow Condensed", "Roboto Condensed", "Inter Tight", sans-serif;

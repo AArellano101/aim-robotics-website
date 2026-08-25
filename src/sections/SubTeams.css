@@ -65,7 +65,7 @@
   margin-block: -0.5rem;
   border: 1px solid var(--aim-red);
   border-radius: 50%;
-  background: var(--white);
+  background: var(--circle-color);
 }
 
 .subteams__center::before,
