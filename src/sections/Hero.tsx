@@ -1,5 +1,4 @@
 import Logo from "../components/Logo";
-import FieldMotif from "../components/FieldMotif";
 import { hero } from "../content/loader";
 import "./Hero.css";
 
