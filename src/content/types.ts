@@ -84,6 +84,7 @@ export interface EngineeringProject {
   title: string;
   description: string;
   mediaLabel: string;
+  mediaImage?: string;
 }
 
 export interface EngineeringContent {

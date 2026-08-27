@@ -1,5 +1,5 @@
 sectionLabel: "04 / ENGINEERING"
-heading: "Built. Tested. Measured."
+heading: "DESIGN. TEST. IMPROVE."
 
 roboCupLabel: "SYSTEM // ROBOCUP SSL"
 roboCupIntro: >
@@ -7,7 +7,7 @@ roboCupIntro: >
   artificial-intelligence research through challenging autonomous-robotics
   problems.
 roboCupDetail: >
-  AIM is developing a team for the RoboCup Small Size League, where teams of
+  AIM is developing a team for the RoboCup Small Size League (SSL), where teams of
   fully autonomous robots play soccer while receiving field-state information
   through the league's shared vision infrastructure and operating under
   automated game-control systems.
@@ -23,26 +23,26 @@ projects:
     number: "01"
     tag: "ROBOTICS / SYSTEMS"
     title: "Autonomous Robot Platform"
-    description: "[PROJECT DESCRIPTION PLACEHOLDER - robot photography, CAD, drivetrain, mechanisms, integration, and specifications will appear here as the platform develops.]"
-    mediaLabel: "AIM ROBOT CAD"
+    description: "Each robot communicates wirelessly with the team’s central system to coordinate and execute gameplay strategies. Together, the robots operate as an autonomous system, with individual platforms handling tasks such as ball control, passing, shooting, and strategic positioning."
+    mediaImage: "robocupssl.jpg"
 
   - id: multi-robot-intelligence
     number: "02"
     tag: "AI / STRATEGY"
     title: "Multi-Robot Intelligence"
-    description: "[PROJECT DESCRIPTION PLACEHOLDER - strategy, autonomous coordination, decision-making, game state, tactics, and multi-agent behaviour.]"
-    mediaLabel: "STRATEGY & COORDINATION VISUALIZATION"
+    description: "Through machine learning, our robots make optimized decisions based on the evolving game state. This enables us to develop strategies tailored to our mechanical capabilities and execute unique tactics that adapt to the flow of the game."
+    mediaImage: "bisector pathfinding.png"
 
   - id: motion-control
     number: "03"
     tag: "PLANNING / CONTROLS"
     title: "Motion & Control"
-    description: "[PROJECT DESCRIPTION PLACEHOLDER - state estimation, path planning, obstacle avoidance, trajectory generation, motion control, and simulation.]"
-    mediaLabel: "PATH PLANNING VISUALIZATION"
+    description: "The control systems use real-time state estimation and path planning to determine how each robot should move through the field. Trajectory generation and feedback control allow the robots to respond quickly to changing conditions and maintain precise movement. This is enabled by our omnidirectional drive, which lets each robot move freely in any direction without needing to reorient."
+    mediaImage: "omniwheels.png"
 
   - id: custom-electronics
     number: "04"
     tag: "ELECTRICAL / EMBEDDED"
     title: "Custom Electronics"
-    description: "[PROJECT DESCRIPTION PLACEHOLDER - PCB design, communications, motor control, firmware, sensors, and power systems.]"
-    mediaLabel: "PCB RENDER"
+    description: "A custom electronics architecture allows the system to be tailored to the robot’s specific needs, giving control over how each subsystem connects and operates. At its core, the main MCU board handles control and processing, while the low-voltage system powers the robot’s electronics and the high-voltage system drives the solenoid-based kicker. Together, these components allow software commands to directly control and coordinate the robot’s mechanical hardware."
+    mediaImage: "microcontroller.png"

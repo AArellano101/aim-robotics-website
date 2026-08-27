@@ -11,9 +11,19 @@ interface ProjectFeatureProps {
 function ProjectFeature({ project, reversed }: ProjectFeatureProps) {
   return (
     <article className={`project-feature ${reversed ? "project-feature--reversed" : ""}`}>
-      <div className="project-feature__media" aria-hidden="true">
-        <span className="project-feature__media-label">[ {project.mediaLabel} ]</span>
-      </div>
+      <div className="project-feature__media">
+        {project.mediaImage ? (
+          <img
+            src={project.mediaImage}
+            alt={project.title}
+            className="project-feature__media-image"
+          />
+        ) : (
+          <span className="project-feature__media-label">
+            [ {project.mediaLabel} ]
+          </span>
+        )}
+    </div>
 
       <div className="project-feature__body">
         <span className="project-feature__number">{project.number}</span>

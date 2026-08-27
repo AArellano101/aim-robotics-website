@@ -8,29 +8,28 @@ domains:
     tag: "AI / SOFTWARE"
 
   - id: embedded
-    title: "Embedded & Electrical"
+    title: "Embedded & Electrical Systems"
     description: "Embedded systems, custom PCBs, sensing, communication, motor electronics, firmware, and power systems."
     tag: "ELECTRICAL"
 
   - id: robot-design
     title: "Robot Design"
-    description: "CAD, drivetrain, mechanisms, kicking, dribbling, manufacturing, packaging, and physical integration."
+    description: "CAD, drivetrain, mechanisms, kicking, dribbling, manufacturing, system integration, and assembly."
     tag: "MECHANICAL"
 
   - id: competition-research
     title: "Competition & Research"
-    description: "RoboCup, experimentation, benchmarking, testing, technical research, and iteration."
+    description: "Experimentation, benchmarking, testing, technical research, and iteration."
     tag: "RESEARCH"
 
 joinSectionLabel: "03B / JOIN US"
 joinHeading: "Who we're looking for."
 joinIntro: >
-  [JOIN INTRO PLACEHOLDER — a short statement about the kind of engineer
-  AIM wants to attract, independent of a specific open role.]
+  At AIM we value hard work and ambitious mindsets. By joining us, you will not only gain opportunities to showcase your intelligence, but will also be surrounded by like-minded people that push you further through guided mentorship and collaboration.
 
 traits:
   - id: systems-thinker
-    title: "Systems Thinkers"
+    title: "System Integration"
     description: "People interested in how software, electrical, and mechanical systems interact."
     relatedDomains:
       - autonomous-systems
