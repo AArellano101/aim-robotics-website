@@ -10,9 +10,9 @@ links:
   - id: teams
     label: "Teams"
     href: "#teams"
-  - id: what-we-do
+  - id: join
     label: "Join"
-    href: "#what-we-do"
+    href: "#join"
   - id: contact
     label: "Contact"
     href: "#contact"

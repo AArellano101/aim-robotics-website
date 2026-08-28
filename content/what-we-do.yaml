@@ -1,4 +1,4 @@
-sectionLabel: "03 / WHAT WE DO"
+sectionLabel: "02 / WHAT WE DO"
 heading: "The work."
 
 domains:
@@ -22,7 +22,7 @@ domains:
     description: "Experimentation, benchmarking, testing, technical research, and iteration."
     tag: "RESEARCH"
 
-joinSectionLabel: "03B / JOIN US"
+joinSectionLabel: "03 / JOIN US"
 joinHeading: "Who we're looking for."
 joinIntro: >
   At AIM we value hard work and ambitious mindsets. By joining us, you will not only gain opportunities to showcase your intelligence, but will also be surrounded by like-minded people that push you further through guided mentorship and collaboration.

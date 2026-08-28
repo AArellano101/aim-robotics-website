@@ -6,27 +6,27 @@ intro: >
 channels:
   - id: email
     label: "Email"
-    value: "[EMAIL PLACEHOLDER]"
-    href: "#"
+    value: "aim.ucalgary@gmail.com"
+    href: "mailto:aim.ucalgary@gmail.com"
 
   - id: recruitment
     label: "Recruitment"
-    value: "[RECRUITMENT LINK PLACEHOLDER]"
+    value: "Apply to join AIM"
     href: "#"
 
-  - id: github
-    label: "GitHub"
-    value: "[GITHUB PLACEHOLDER]"
-    href: "#"
+  # - id: github
+  #   label: "GitHub"
+  #   value: "[GITHUB PLACEHOLDER]"
+  #   href: "#"
 
   - id: instagram
     label: "Instagram"
-    value: "[INSTAGRAM PLACEHOLDER]"
+    value: "Instagram"
     href: "#"
 
   - id: linkedin
     label: "LinkedIn"
-    value: "[LINKEDIN PLACEHOLDER]"
-    href: "#"
+    value: "LinkedIn"
+    href: "https://www.linkedin.com/company/aim-ucalgary/"
 
 affiliation: "University of Calgary"
