@@ -32,6 +32,9 @@ projects:
     title: "Multi-Robot Intelligence"
     description: "Through machine learning, our robots make optimized decisions based on the evolving game state. This enables us to develop strategies tailored to our mechanical capabilities and execute unique tactics that adapt to the flow of the game."
     mediaImage: "bisector pathfinding.png"
+    mediaSource:
+      label: "First Order Robotics Team Description Paper (2025)"
+      href: "https://ssl.robocup.org/wp-content/uploads/2025/04/2025_TDP_First-Order.pdf"
 
   - id: motion-control
     number: "03"
@@ -46,3 +49,7 @@ projects:
     title: "Custom Electronics"
     description: "A custom electronics architecture allows the system to be tailored to the robot’s specific needs, giving control over how each subsystem connects and operates. At its core, the main MCU board handles control and processing, while the low-voltage system powers the robot’s electronics and the high-voltage system drives the solenoid-based kicker. Together, these components allow software commands to directly control and coordinate the robot’s mechanical hardware."
     mediaImage: "microcontroller.png"
+    mediaFit: "contain"
+    mediaSource:
+      label: "IEEE Xplore // Document 8267943"
+      href: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8267943"

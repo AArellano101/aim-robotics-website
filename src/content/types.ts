@@ -85,6 +85,11 @@ export interface EngineeringProject {
   description: string;
   mediaLabel: string;
   mediaImage?: string;
+  mediaFit?: "cover" | "contain";
+  mediaSource?: {
+    label: string;
+    href: string;
+  };
 }
 
 export interface EngineeringContent {
