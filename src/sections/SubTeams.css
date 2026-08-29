@@ -66,6 +66,8 @@
   border: 1px solid var(--aim-red);
   border-radius: 50%;
   background: var(--circle-color);
+
+  transform: translateY(-20px);
 }
 
 .subteams__center::before,
