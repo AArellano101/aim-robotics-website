@@ -6,7 +6,7 @@ location: "Calgary, Alberta"
 socialLinks:
   - id: github
     label: "GitHub"
-    href: "#"
+    href: "https://github.com/aim-ucalgary"
   - id: instagram
     label: "Instagram"
     href: "#"

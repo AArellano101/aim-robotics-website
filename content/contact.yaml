@@ -12,12 +12,12 @@ channels:
   - id: recruitment
     label: "Recruitment"
     value: "Apply to join AIM"
-    href: "#"
+    href: "https://forms.gle/KF5sdu28M2VxnoHm9"
 
-  # - id: github
-  #   label: "GitHub"
-  #   value: "[GITHUB PLACEHOLDER]"
-  #   href: "#"
+  - id: github
+    label: "GitHub"
+    value: "Github"
+    href: "https://github.com/aim-ucalgary"
 
   - id: instagram
     label: "Instagram"
