@@ -1,4 +1,4 @@
-import logoImg from "../assets/logo.png";
+import logoImg from "../assets/AIM Full Logo.png";
 import "./Logo.css";
 
 interface LogoProps {

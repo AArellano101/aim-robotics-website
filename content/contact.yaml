@@ -22,7 +22,7 @@ channels:
   - id: instagram
     label: "Instagram"
     value: "Instagram"
-    href: "#"
+    href: "https://www.instagram.com/aim.ucalgary/"
 
   - id: linkedin
     label: "LinkedIn"

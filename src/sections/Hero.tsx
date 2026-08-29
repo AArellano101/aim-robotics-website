@@ -1,4 +1,4 @@
-import Logo from "../components/Logo";
+import heroLogo from "../assets/AIM Alt Logo.png";
 import { hero } from "../content/loader";
 import "./Hero.css";
 
@@ -30,8 +30,7 @@ function Hero() {
         </div>
 
         <div className="hero__media" role="img" aria-label={hero.mediaAlt}>
-          
-          <Logo className="hero__logo" />
+          <img className="hero__logo" src={heroLogo} alt="" />
         </div>
       </div>
 

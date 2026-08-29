@@ -25,6 +25,9 @@ projects:
     title: "Autonomous Robot Platform"
     description: "Each robot communicates wirelessly with the team’s central system to coordinate and execute gameplay strategies. Together, the robots operate as an autonomous system, with individual platforms handling tasks such as ball control, passing, shooting, and strategic positioning."
     mediaImage: "robocupssl.jpg"
+    mediaSource:
+      label: "Small Size League | RoboCup Soccer"
+      href: "https://ssl.robocup.org/"
 
   - id: multi-robot-intelligence
     number: "02"
